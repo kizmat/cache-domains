@@ -121,6 +121,11 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "nvidia",
+			"description": "CDN for nvidia",
+			"domain_files": ["nvidia.txt"]
 		}
 	]
 }
